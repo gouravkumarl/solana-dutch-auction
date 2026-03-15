@@ -12,18 +12,18 @@ A Dutch auction where the price is a **pure function of the Solana slot clock** 
 
 | | |
 |---|---|
-| **Program ID** | `DAuct1onXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX` |
+| **Program ID** | `3dNGqPp9B3mJw7UCaUWeiV5jB7MPenrovbJoTJePxFq7` |
 | **Network** | Solana Devnet |
-| **Explorer** | [View Program](https://explorer.solana.com/address/DAuct1onXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX?cluster=devnet) |
+| **Explorer** | [View Program](https://explorer.solana.com/address/3dNGqPp9B3mJw7UCaUWeiV5jB7MPenrovbJoTJePxFq7?cluster=devnet) |
 
 ### Devnet Transaction Links
 
 | | |
 |---|---|
-| Deploy | `<TX>` |
-| Create auction | `<TX>` |
-| Winning bid (with overpayment refund) | `<TX>` |
-| Settle expired | `<TX>` |
+| Deploy | [View on Explorer](https://explorer.solana.com/tx/aB9ZDKXorsbJrUiCvPvw57mhRMcHC9hibKBAbYY5tC6ajp2AvqbZQWjXXxXAUCzwrcB8mzR8TfvZuVAhhBWqPe2?cluster=devnet) |
+
+
+
 
 ---
 
